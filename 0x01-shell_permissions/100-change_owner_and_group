@@ -1,2 +1,2 @@
-100-change_owner_and_group
+#!/bin/bash
 chown -hR vincent:staff ./
